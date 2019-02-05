@@ -11,6 +11,6 @@ def hello_t(array)
 end
 
 # call your method here!
-hello_t do |name|
-  puts "Hi, #{name}"
+hello_t do
+  puts "Hi"
 end
