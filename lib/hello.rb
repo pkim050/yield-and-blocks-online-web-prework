@@ -12,6 +12,5 @@ end
 
 # call your method here!
 hello_t do |name|
-    puts "Hi, #{name}"
-  end
+  puts "Hi, #{name}"
 end
